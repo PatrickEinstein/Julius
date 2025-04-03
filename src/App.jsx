@@ -10,7 +10,7 @@ import Experience from "./sections/Experience.jsx";
 
 const App = () => {
     return (
-        <main className='w-screen'>
+        <main className='w-full overflow-hidden'>
             <Navbar/>
             <Hero/>
             <About/>

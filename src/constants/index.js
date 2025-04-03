@@ -64,11 +64,11 @@ const previousprojectsData = [
       "Tracking Fleet of assets such as Cars, Trailers, Trucks, Amoured Tank, Fuel Logs, Fuel Level Senors in real time",
     subdesc:
       "Built on TypeScript, .NET, C#, Entity framework, Postgres, Redis, Node js, React js, Websocket, Linux VM, VPS, Docker",
-    image: "assets/ocpg.png",
-    texture: "/textures/project/ocpg.mp4",
+    image: "assets/oryo-c.png",
+    texture: "/textures/project/oryo-c.mp4",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PatrickEinstein/Octave_Payment_Gateway",
-    previewUrl: "http://74.50.68.46/",
+    previewUrl: "http://74.50.68.46",
   },
   {
     id: 0,
@@ -88,7 +88,7 @@ const previousprojectsData = [
     description: "Interractive Test maps",
     subdesc: "Built on Node js",
     image: "assets/ocpg.png",
-    texture: "/textures/project/bills.mp4",
+    texture: "/textures/project/ocpg.mp4",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PatrickEinstein/Bills_Server",
     previewUrl: "http://16.171.137.18:4500/api/docs/",
@@ -223,19 +223,19 @@ const transformedProjects = previousprojectsData.map((project) => ({
   gitRef: project.gitUrl,
   logo: project.image,
   texture: project.texture,
+  spotlight: "/assets/spotlight1.png",
   logoStyle: {
     backgroundColor: "#2A1816",
     border: "0.2px solid #36201D",
     boxShadow: "0px 0px 60px 0px #AA3C304D",
   },
-  spotlight: `/assets/projects/${project.title
-    .toLowerCase()
-    .replace(/\s+/g, "-")}`,
   tags: [
     { id: 1, name: "React.js", path: "/assets/react.svg" },
     { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.png" },
     { id: 3, name: "TypeScript", path: "/assets/typescript.png" },
     { id: 4, name: "Framer Motion", path: "/assets/framer.png" },
+    { id: 4, name: ".NET", path: "/assets/.net.svg" },
+    { id: 4, name: ".PGSQL", path: "/assets/pgsql.svg" },
   ],
 }));
 export const myProjects = [
@@ -247,7 +247,6 @@ export const myProjects = [
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
     href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
-    gitRef: "",
     gitRef: "",
     texture: "/textures/project/project1.mp4",
     logo: "/assets/project-logo1.png",
@@ -474,31 +473,31 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: "Framer",
-    pos: "Lead Web Developer",
-    duration: "2022 - Present",
+    name: "ChamsSwitch Limited",
+    pos: "Software Developer Manager",
+    duration: "2023 - Present",
     title:
-      "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+      "",
     icon: "/assets/framer.svg",
     animation: "victory",
   },
   {
     id: 2,
-    name: "Figma",
-    pos: "Web Developer",
+    name: "ORYO Limited",
+    pos: "Fullstack Software Architect and Developer",
     duration: "2020 - 2022",
     title:
-      "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+      "",
     icon: "/assets/figma.svg",
     animation: "clapping",
   },
   {
     id: 3,
-    name: "Notion",
-    pos: "Junior Web Developer",
-    duration: "2019 - 2020",
+    name: "GreenBarter",
+    pos: "Lead BAckend and Co-founder",
+    duration: "2045 - Present",
     title:
-      "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
+      "",
     icon: "/assets/notion.svg",
     animation: "salute",
   },

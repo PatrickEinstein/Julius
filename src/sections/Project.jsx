@@ -55,7 +55,7 @@ const Project = () => {
                                 ))
                             }
                         </div>
-                        <a className="flex items-center gap-2 cursor-pointer text-white-600"
+                        <a className="flex items-center gap-2 cursor-pointer text-white-600 py-5 px-2"
                            href={currentProject.href}
                            target="_blank" rel="noreferrer">
                             <p>Check Live Site</p>
