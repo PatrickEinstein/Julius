@@ -51,8 +51,8 @@ const Contact = () => {
             <h3 className='head-text'>
                 Contact Me
             </h3>
-            <div className="relative min-h-screen flex items-center justify-center flex-col">
-                <img src="/assets/terminal.png" alt="terminal-bg" className="absolute inset-0 h-[800px]"/>
+            <div className="relative  min-h-screen flex items-center justify-center flex-col">
+                <img src="/assets/terminal.png" alt="terminal-bg" className="absolute justify-center inset-0 h-[1000px] w-screen "/>
                 <div className='contact-container'>
                     <h3 className='head-text'>
                         Let's talk

@@ -28,7 +28,7 @@ export const clientReviews = [
     position: "Marketing Director at GreenLeaf",
     img: "assets/review1.png",
     review:
-      "Working with Patrick was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
+      "Working with Julius was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const clientReviews = [
     position: "Founder of TechGear Shop",
     img: "assets/review2.png",
     review:
-      "Olalekan's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.",
+      "Julius' expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.",
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const clientReviews = [
     position: "Project Manager at UrbanTech ",
     img: "assets/review3.png",
     review:
-      "I can’t say enough good things about Lekan. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+      "I can’t say enough good things about Julius. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ export const clientReviews = [
     position: "CEO of BrightStar Enterprises",
     img: "assets/review4.png",
     review:
-      "Lekan was a pleasure to work with. He understood our requirements perfectly and delivered a webapps that exceeded our expectations. His skills in both frontend backend dev are top-notch.",
+      "Julius was a pleasure to work with. He understood our requirements perfectly and delivered a webapps that exceeded our expectations. His skills in both frontend backend dev are top-notch.",
   },
 ];
 
@@ -67,7 +67,7 @@ const previousprojectsData = [
     image: "assets/oryo-c.png",
     texture: "/textures/project/oryo-c.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Octave_Payment_Gateway",
+    // gitUrl: "https://github.com/PatrickEinstein/Octave_Payment_Gateway",
     previewUrl: "http://74.50.68.46",
   },
   {
@@ -79,7 +79,7 @@ const previousprojectsData = [
     image: "assets/ocpg.png",
     texture: "/textures/project/ocpg.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Octave_Payment_Gateway",
+    // gitUrl: "https://github.com/PatrickEinstein/Octave_Payment_Gateway",
     previewUrl: "http://16.171.137.18:5331/swagger/index.html",
   },
   {
@@ -90,7 +90,7 @@ const previousprojectsData = [
     image: "assets/ocpg.png",
     texture: "/textures/project/ocpg.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Bills_Server",
+    // gitUrl: "https://github.com/PatrickEinstein/Bills_Server",
     previewUrl: "http://16.171.137.18:4500/api/docs/",
   },
   {
@@ -103,7 +103,7 @@ const previousprojectsData = [
     image: "assets/pelpay.png",
     texture: "/textures/project/pelpay.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://api.pelpay.ng/index.html",
+    // gitUrl: "https://api.pelpay.ng/index.html",
     previewUrl: "https://api.pelpay.ng/index.html",
   },
   {
@@ -114,7 +114,7 @@ const previousprojectsData = [
     image: "assets/maps.png",
     texture: "/textures/project/map.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Map",
+    // gitUrl: "https://github.com/PatrickEinstein/Map",
     previewUrl: "https://map-gilt.vercel.app/",
   },
 
@@ -128,7 +128,7 @@ const previousprojectsData = [
     image: "assets/melodyai.png",
     texture: "/textures/project/melodyai.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/MelodyAi_DataAnalytics",
+    // gitUrl: "https://github.com/PatrickEinstein/MelodyAi_DataAnalytics",
     previewUrl: "https://melody-ai-data-analytics.vercel.app/",
   },
   {
@@ -139,7 +139,7 @@ const previousprojectsData = [
     image: "https://i.ibb.co/6n1k0GS/3dfolio.png",
     texture: "/textures/project/3dpot.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Folio-client/tree/patrick",
+    // gitUrl: "https://github.com/PatrickEinstein/Folio-client/tree/patrick",
     previewUrl: "https://folio-client-blue.vercel.app/",
   },
   {
@@ -151,7 +151,7 @@ const previousprojectsData = [
     image: "assets/patstack.png",
     texture: "/textures/project/patstack.mp4",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    // gitUrl: "/",
     previewUrl: "https://patstack.vercel.app/dashboard",
   },
   {
@@ -163,7 +163,7 @@ const previousprojectsData = [
     image: "assets/upsc.png",
     texture: "/textures/project/upsc.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Credit-Card-Logger-Client",
+    // gitUrl: "https://github.com/PatrickEinstein/Credit-Card-Logger-Client",
     previewUrl: "https://credit-card-logger-client.vercel.app/",
   },
   {
@@ -175,7 +175,7 @@ const previousprojectsData = [
     image: "assets/upsa.png",
     texture: "/textures/project/upsa.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Credit-Card-Logger-Admin",
+    // gitUrl: "https://github.com/PatrickEinstein/Credit-Card-Logger-Admin",
     previewUrl: "https://credit-card-logger-admin.vercel.app/",
   },
   {
@@ -187,7 +187,7 @@ const previousprojectsData = [
     image: "assets/retroW.png",
     texture: "/textures/project/retroW.mp4",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/PatrickEinstein/Retro-Clients",
+    // gitUrl: "https://github.com/PatrickEinstein/Retro-Clients",
     previewUrl: "https://retro-clients.vercel.app/",
   },
   {
@@ -198,7 +198,7 @@ const previousprojectsData = [
     image: "assets/vV.png",
     texture: "/textures/project/vV.mp4",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    // gitUrl: "/",
     previewUrl: "https://vote-verse.vercel.app/login",
   },
 
@@ -210,7 +210,7 @@ const previousprojectsData = [
     image: "assets/allpots.png",
     texture: "/textures/project/allpots.mp4",
     tag: ["All", "Web"],
-    gitUrl: "",
+    // gitUrl: "",
     previewUrl: "https://folio11.vercel.app/",
   },
 ];
