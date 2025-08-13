@@ -174,7 +174,7 @@ const About = () => {
                             <p className="grid-subtext text-center">Contact Me </p>
                             <div className="px-5 copy-container" onClick={handleCopy}>
                                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt='copy' />
-                                <p className="lg:text-xl md:text-xl font-medium text-gray-50">jujuzmedia@gmail.com</p>
+                                <p className="lg:text-xl md:text-xl font-medium text-gray-50">jujuzmgmt@gmail.com</p>
                             </div>
                         </div>
                     </div>

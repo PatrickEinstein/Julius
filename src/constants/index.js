@@ -473,7 +473,7 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: "ChamsSwitch Limited",
+    name: "Genpact",
     pos: "Software Developer Manager",
     duration: "2023 - Present",
     title:
@@ -484,7 +484,7 @@ export const workExperiences = [
   {
     id: 2,
     name: "ORYO Limited",
-    pos: "Fullstack Software Architect and Developer",
+    pos: "Fullstack Software Architect and Developer | Remote",
     duration: "2020 - 2022",
     title:
       "",
@@ -494,7 +494,7 @@ export const workExperiences = [
   {
     id: 3,
     name: "GreenBarter",
-    pos: "Lead BAckend and Co-founder",
+    pos: "Lead BAckend and Co-founder | Remote",
     duration: "2045 - Present",
     title:
       "",
