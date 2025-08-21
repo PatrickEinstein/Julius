@@ -23,7 +23,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className='text-white-500'>
-               ©️ 2024 Juliu. All rights reserved
+               ©️ 2024 Julius. All rights reserved
             </p>
         </section>
     )
