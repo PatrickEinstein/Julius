@@ -473,9 +473,9 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: "Genpact",
-    pos: "Software Developer Manager",
-    duration: "2023 - Present",
+    name: "Beth-israel",
+    pos: "Full Stack Developer Manager Contract",
+    duration: "2024 - 2025",
     title:
       "",
     icon: "/assets/framer.svg",
@@ -485,7 +485,7 @@ export const workExperiences = [
     id: 2,
     name: "ORYO Limited",
     pos: "Fullstack Software Architect and Developer | Remote",
-    duration: "2020 - 2022",
+    duration: "2014 - 2016",
     title:
       "",
     icon: "/assets/figma.svg",
@@ -493,9 +493,9 @@ export const workExperiences = [
   },
   {
     id: 3,
-    name: "GreenBarter",
-    pos: "Lead BAckend and Co-founder | Remote",
-    duration: "2045 - Present",
+    name: "GenPact",
+    pos: "Lead Backend Remote",
+    duration: "2020 - 2024",
     title:
       "",
     icon: "/assets/notion.svg",
