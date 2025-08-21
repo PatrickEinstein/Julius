@@ -482,6 +482,16 @@ export const workExperiences = [
     animation: "victory",
   },
   {
+    id: 3,
+    name: "GenPact",
+    pos: "Lead Backend Remote",
+    duration: "2020 - 2024",
+    title:
+    "",
+    icon: "/assets/notion.svg",
+    animation: "salute",
+  },
+  {
     id: 2,
     name: "ORYO Limited",
     pos: "Fullstack Software Architect and Developer | Remote",
@@ -490,15 +500,5 @@ export const workExperiences = [
       "",
     icon: "/assets/figma.svg",
     animation: "clapping",
-  },
-  {
-    id: 3,
-    name: "GenPact",
-    pos: "Lead Backend Remote",
-    duration: "2020 - 2024",
-    title:
-      "",
-    icon: "/assets/notion.svg",
-    animation: "salute",
   },
 ];
